@@ -70,11 +70,3 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
-Assets/StreamingAssets/crashlytics-build.properties
-ProjectSettings/ProjectVersion.txt
-ProjectSettings/ProjectVersion.txt
-ProjectSettings/VFXManager.asset
-Packages/manifest.json
-Packages/manifest.json
-ProjectSettings/ProjectVersion.txt
-Packages/manifest.json
